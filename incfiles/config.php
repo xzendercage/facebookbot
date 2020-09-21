@@ -1,8 +1,8 @@
 ﻿<?
 $host = "localhost";  // MySQL DB Host
-$username = "b5fbdfdb966f68";  // Enter MySQL DB User
-$password = "31261a8602c5575";	 // Enter MySQL DB Pass
-$dbname = "heroku_51cd5c35187305a"; // Enter MySQL DB Name
+$username = "b8c35f9ee7d78d";  // Enter MySQL DB User
+$password = "29d365c12a10bb1";	 // Enter MySQL DB Pass
+$dbname = "heroku_dd9dce559f8f7b7"; // Enter MySQL DB Name
 $connection = mysql_connect($host,$username,$password);
 if (!$connection)
 {
